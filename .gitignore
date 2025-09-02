@@ -1,4 +1,5 @@
-test.py
+*.py
 .env
 .__pycache__
 .vscode
+prev.txt
